@@ -1,0 +1,22 @@
+{
+  "name": "tms-test",
+  "version": "1.0.0",
+  "description": "Say hello to tms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tmsnet/tms-test.git"
+  },
+  "keywords": [
+    "tms"
+  ],
+  "author": "tmsnet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tmsnet/tms-test/issues"
+  },
+  "homepage": "https://github.com/tmsnet/tms-test#readme"
+}
