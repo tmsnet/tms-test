@@ -45,7 +45,7 @@
 21 silly publish   homepage: 'https://github.com/tmsnet/tms-test#readme',
 21 silly publish   readme: '"# tms-test" \r\n',
 21 silly publish   readmeFilename: 'README.md',
-21 silly publish   gitHead: '5d046f8e3f9763cdb22e7a343246ec960331bb9b',
+21 silly publish   gitHead: '46bed0f3c2cb111fd60083d3c7256bc372108618',
 21 silly publish   _id: 'tms-test@1.0.5',
 21 silly publish   _shasum: 'bdf94df85f5de9f539d725b9328ba3a6f4286ba4',
 21 silly publish   _from: '.' }
@@ -65,22 +65,22 @@
 29 silly publish uploading C:\Users\tms\AppData\Roaming\npm-cache\tms-test\1.0.5\package.tgz
 30 verbose request uri https://registry.npmjs.org/tms-test
 31 verbose request sending authorization for write operation
-32 info attempt registry request try #1 at 15:08:41
+32 info attempt registry request try #1 at 15:13:14
 33 verbose request using bearer token for auth
-34 verbose request id 3b421f5e0834a22d
+34 verbose request id f02da6ea5c7bf4a0
 35 http request PUT https://registry.npmjs.org/tms-test
 36 http 403 https://registry.npmjs.org/tms-test
 37 verbose headers { 'content-type': 'application/json',
 37 verbose headers   'cache-control': 'max-age=300',
 37 verbose headers   'content-length': '95',
 37 verbose headers   'accept-ranges': 'bytes',
-37 verbose headers   date: 'Fri, 03 Jun 2016 07:08:47 GMT',
+37 verbose headers   date: 'Fri, 03 Jun 2016 07:13:21 GMT',
 37 verbose headers   via: '1.1 varnish',
 37 verbose headers   connection: 'keep-alive',
-37 verbose headers   'x-served-by': 'cache-sin6923-SIN',
+37 verbose headers   'x-served-by': 'cache-sin6922-SIN',
 37 verbose headers   'x-cache': 'MISS',
 37 verbose headers   'x-cache-hits': '0',
-37 verbose headers   'x-timer': 'S1464937726.719595,VS0,VE850',
+37 verbose headers   'x-timer': 'S1464938000.425122,VS0,VE854',
 37 verbose headers   vary: 'Accept-Encoding' }
 38 verbose request invalidating C:\Users\tms\AppData\Roaming\npm-cache\registry.npmjs.org\tms-test on PUT
 39 error publish Failed PUT 403
