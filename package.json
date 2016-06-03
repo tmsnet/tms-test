@@ -1,6 +1,6 @@
 {
   "name": "tms-test",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Say hello to tms",
   "main": "index.js",
   "scripts": {
